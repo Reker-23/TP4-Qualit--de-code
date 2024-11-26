@@ -1,3 +1,6 @@
+/**
+ * @TODO factoriser le code en ajoutStock, retraitStock et choixOperation
+ */
 public class StockManager {
 
     // gere le stock
@@ -19,4 +22,9 @@ public class StockManager {
             System.out.println("Opération inconnue.");
         }
     }
+
+    public int ajoutStock(){
+
+    }
+
 }
